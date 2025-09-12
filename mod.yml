@@ -142,12 +142,6 @@ assets:
   package: kh2_sixth
   source:
   - name: obj\P_EX100.mdlx
-- name: obj\P_EX100.mset
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: obj\P_EX100.mset
 - name: obj\P_EX100_AL_CARPET.mdlx
   method: copy
   platform: pc
@@ -940,3 +934,4 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_LM100.mdlx\-4.dds
+
