@@ -1,6 +1,6 @@
-title: Abby Sora
-originalAuthor: Creepola
-description: Abby, you get to play as yourself (well, just the hair)
+title: MyPatch (KH2PCPATCH)
+originalAuthor: Unknown
+description: This is an automatically generated metadata for this KH2PCPATCH Modification.
 game: kh2
 dependencies: 
 assets:
@@ -64,6 +64,36 @@ assets:
   package: kh2_fifth
   source:
   - name: remastered\obj\AL14_PLAYER.mdlx\-5.dds
+- name: remastered\obj\H_EX630.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\H_EX630.mdlx\-0.dds
+- name: remastered\obj\H_EX630.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\H_EX630.mdlx\-1.dds
+- name: remastered\obj\H_EX630.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\H_EX630.mdlx\-2.dds
+- name: remastered\obj\H_EX630.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\H_EX630.mdlx\-3.dds
+- name: remastered\obj\H_EX630.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\H_EX630.mdlx\-4.dds
 - name: remastered\obj\H_EX650.mdlx\-0.dds
   method: copy
   platform: pc
@@ -87,8 +117,8 @@ assets:
   platform: pc
   package: kh2_fifth
   source:
-- name: remastered\obj\H_EX650.mdlx\-3.dds
-  - name: remastered\obj\N_EX830.mdlx\-0.dds
+  - name: remastered\obj\H_EX650.mdlx\-3.dds
+- name: remastered\obj\N_EX830.mdlx\-0.dds
   method: copy
   platform: pc
   package: kh2_fifth
@@ -112,12 +142,66 @@ assets:
   package: kh2_fifth
   source:
   - name: remastered\obj\N_EX830.mdlx\-3.dds
-- name: remastered\obj\N_EX830.mdlx\-4.dds
+- name: obj\P_EX110.mdlx
   method: copy
   platform: pc
-  package: kh2_fifth
+  package: kh2_first
   source:
-  - name: remastered\obj\N_EX830.mdlx\-4.dds
+  - name: obj\P_EX110.mdlx
+- name: obj\P_EX110_NPC_PAJAMAS.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: obj\P_EX110_NPC_PAJAMAS.mdlx
+- name: remastered\obj\P_EX110.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\obj\P_EX110.mdlx\-0.dds
+- name: remastered\obj\P_EX110.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\obj\P_EX110.mdlx\-1.dds
+- name: remastered\obj\P_EX110.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\obj\P_EX110.mdlx\-2.dds
+- name: remastered\obj\P_EX110.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\obj\P_EX110.mdlx\-3.dds
+- name: remastered\obj\P_EX110_NPC_PAJAMAS.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\obj\P_EX110_NPC_PAJAMAS.mdlx\-0.dds
+- name: remastered\obj\P_EX110_NPC_PAJAMAS.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\obj\P_EX110_NPC_PAJAMAS.mdlx\-1.dds
+- name: remastered\obj\P_EX110_NPC_PAJAMAS.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\obj\P_EX110_NPC_PAJAMAS.mdlx\-2.dds
+- name: remastered\obj\P_EX110_NPC_PAJAMAS.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\obj\P_EX110_NPC_PAJAMAS.mdlx\-3.dds
 - name: obj\H_EX500.mdlx
   method: copy
   platform: pc
@@ -178,6 +262,12 @@ assets:
   package: kh2_sixth
   source:
   - name: obj\P_EX100.mdlx
+- name: obj\P_EX100.mset
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\P_EX100.mset
 - name: obj\P_EX100_AL_CARPET.mdlx
   method: copy
   platform: pc
@@ -238,6 +328,12 @@ assets:
   package: kh2_sixth
   source:
   - name: obj\P_EX100_ULTF.mdlx
+- name: obj\P_EX110_BTLF.mdlx
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\P_EX110_BTLF.mdlx
 - name: obj\P_LM100.mdlx
   method: copy
   platform: pc
@@ -928,6 +1024,30 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100_ULTF.mdlx\-5.dds
+- name: remastered\obj\P_EX110_BTLF.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX110_BTLF.mdlx\-0.dds
+- name: remastered\obj\P_EX110_BTLF.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX110_BTLF.mdlx\-1.dds
+- name: remastered\obj\P_EX110_BTLF.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX110_BTLF.mdlx\-2.dds
+- name: remastered\obj\P_EX110_BTLF.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX110_BTLF.mdlx\-3.dds
 - name: remastered\obj\P_LK100.mdlx\-0.dds
   method: copy
   platform: pc
@@ -970,4 +1090,3 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_LM100.mdlx\-4.dds
-
