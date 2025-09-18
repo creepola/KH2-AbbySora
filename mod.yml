@@ -1,6 +1,6 @@
-title: MyPatch (KH2PCPATCH)
-originalAuthor: Unknown
-description: This is an automatically generated metadata for this KH2PCPATCH Modification.
+title: Abby Sora
+originalAuthor: Creepola
+description: Play as Abby!
 game: kh2
 dependencies: 
 assets:
@@ -1090,3 +1090,4 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_LM100.mdlx\-4.dds
+
