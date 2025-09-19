@@ -148,6 +148,12 @@ assets:
   package: kh2_first
   source:
   - name: obj\H_EX510.mdlx
+- name: obj\H_EX510_PAJAMAS.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: obj\H_EX510_PAJAMAS.mdlx
 - name: obj\P_EX110.mdlx
   method: copy
   platform: pc
@@ -178,6 +184,24 @@ assets:
   package: kh2_first
   source:
   - name: remastered\obj\H_EX510.mdlx\-2.dds
+- name: remastered\obj\H_EX510_PAJAMAS.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\obj\H_EX510_PAJAMAS.mdlx\-0.dds
+- name: remastered\obj\H_EX510_PAJAMAS.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\obj\H_EX510_PAJAMAS.mdlx\-1.dds
+- name: remastered\obj\H_EX510_PAJAMAS.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\obj\H_EX510_PAJAMAS.mdlx\-2.dds
 - name: remastered\obj\P_EX110.mdlx\-0.dds
   method: copy
   platform: pc
@@ -1114,5 +1138,6 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_LM100.mdlx\-4.dds
+
 
 
