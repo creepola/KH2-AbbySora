@@ -382,6 +382,30 @@ assets:
   package: kh2_sixth
   source:
   - name: obj\P_EX110_BTLF.mdlx
+- name: obj\P_EX120.mdlx
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\P_EX120.mdlx
+- name: obj\P_EX120_NPC_BLUE.mdlx
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\P_EX120_NPC_BLUE.mdlx
+- name: obj\P_EX120_NPC_GREEN.mdlx
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\P_EX120_NPC_GREEN.mdlx
+- name: obj\P_EX120_NPC_RED.mdlx
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\P_EX120_NPC_RED.mdlx
 - name: obj\P_LM100.mdlx
   method: copy
   platform: pc
@@ -1096,6 +1120,126 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX110_BTLF.mdlx\-3.dds
+- name: remastered\obj\P_EX120.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120.mdlx\-0.dds
+- name: remastered\obj\P_EX120.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120.mdlx\-1.dds
+- name: remastered\obj\P_EX120.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120.mdlx\-2.dds
+- name: remastered\obj\P_EX120.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120.mdlx\-3.dds
+- name: remastered\obj\P_EX120.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120.mdlx\-4.dds
+- name: remastered\obj\P_EX120_NPC_BLUE.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120_NPC_BLUE.mdlx\-0.dds
+- name: remastered\obj\P_EX120_NPC_BLUE.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120NPC_BLUE.mdlx\-1.dds
+- name: remastered\obj\P_EX120_NPC_BLUE.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120_NPC_BLUE.mdlx\-2.dds
+- name: remastered\obj\P_EX120_NPC_BLUE.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120_NPC_BLUE.mdlx\-3.dds
+- name: remastered\obj\P_EX120NPC_BLUE.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120NPC_BLUE.mdlx\-4.dds
+- name: remastered\obj\P_EX120_NPC_BLUE.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120_NPC_GREEN.mdlx\-0.dds
+- name: remastered\obj\P_EX120_NPC_GREEN.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120NPC_GREEN.mdlx\-1.dds
+- name: remastered\obj\P_EX120_NPC_BLUE.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120_NPC_GREEN.mdlx\-2.dds
+- name: remastered\obj\P_EX120_NPC_GREEN.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120_NPC_GREEN.mdlx\-3.dds
+- name: remastered\obj\P_EX120NPC_GREEN.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120NPC_GREEN.mdlx\-4.dds
+- name: remastered\obj\P_EX120_NPC_RED.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120_NPC_RED.mdlx\-0.dds
+- name: remastered\obj\P_EX120_NPC_RED.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120NPC_RED.mdlx\-1.dds
+- name: remastered\obj\P_EX120_NPC_RED.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120_NPC_RED.mdlx\-2.dds
+- name: remastered\obj\P_EX120_NPC_RED.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120_NPC_RED.mdlx\-3.dds
+- name: remastered\obj\P_EX120NPC_RED.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120NPC_RED.mdlx\-4.dds
 - name: remastered\obj\P_LK100.mdlx\-0.dds
   method: copy
   platform: pc
