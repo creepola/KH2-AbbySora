@@ -16,6 +16,12 @@ assets:
   package: kh2_fifth
   source:
   - name: obj\H_EX630.mdlx
+- name: obj\H_EX640.mdlx
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: obj\H_EX640.mdlx
 - name: obj\H_EX650.mdlx
   method: copy
   platform: pc
@@ -598,6 +604,12 @@ assets:
   package: kh2_sixth
   source:
   - name: obj\P_EX110_BTLF.mdlx
+- name: obj\P_LK100.mdlx
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\P_LK100.mdlx
 - name: obj\P_LM100.mdlx
   method: copy
   platform: pc
@@ -1594,6 +1606,18 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX120.mdlx\-4.dds
+- name: remastered\obj\P_EX120.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120.mdlx\-5.dds
+- name: remastered\obj\P_EX120.mdlx\-6.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120.mdlx\-6.dds
 - name: remastered\obj\P_EX120.mdlx\-0.dds
   method: copy
   platform: pc
@@ -1624,6 +1648,18 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX120_NPC_BLUE.mdlx\-4.dds
+- name: remastered\obj\P_EX120_NPC_BLUE.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120_NPC_BLUE.mdlx\-5.dds
+- name: remastered\obj\P_EX120_NPC_BLUE.mdlx\-6.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120_NPC_BLUE.mdlx\-6.dds
 - name: remastered\obj\P_EX120_NPC_GREEN.mdlx\-0.dds
   method: copy
   platform: pc
@@ -1654,6 +1690,18 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX120_NPC_GREEN.mdlx\-4.dds
+- name: remastered\obj\P_EX120_NPC_GREEN.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120_NPC_GREEN.mdlx\-5.dds
+- name: remastered\obj\P_EX120_NPC_GREEN.mdlx\-6.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120_NPC_GREEN.mdlx\-6.dds
 - name: remastered\obj\P_EX120_NPC_RED.mdlx\-0.dds
   method: copy
   platform: pc
@@ -1684,6 +1732,18 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX120_NPC_RED.mdlx\-4.dds
+- name: remastered\obj\P_EX120_NPC_RED.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120_NPC_RED.mdlx\-5.dds
+- name: remastered\obj\P_EX120_NPC_RED.mdlx\-6.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX120_NPC_RED.mdlx\-6.dds
 - name: remastered\obj\P_LK100.mdlx\-0.dds
   method: copy
   platform: pc
