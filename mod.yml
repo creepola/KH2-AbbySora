@@ -1786,12 +1786,6 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_LK100.mdlx\-3.dds
-- name: remastered\obj\P_LK100.mdlx\-4.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_LK100.mdlx\-4.dds
 - name: remastered\obj\P_LM100.mdlx\-0.dds
   method: copy
   platform: pc
