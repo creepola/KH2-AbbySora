@@ -124,12 +124,6 @@ assets:
   package: kh2_fifth
   source:
   - name: remastered\obj\H_EX630.mdlx\-5.dds
-- name: remastered\obj\H_EX630.mdlx\-6.dds
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: remastered\obj\H_EX630.mdlx\-6.dds
 - name: remastered\obj\H_EX640.mdlx\-0.dds
   method: copy
   platform: pc
