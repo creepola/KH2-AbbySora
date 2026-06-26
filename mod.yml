@@ -598,6 +598,30 @@ assets:
   package: kh2_sixth
   source:
   - name: obj\P_EX110_BTLF.mdlx
+- name: obj\P_EX120.mdlx
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\P_EX120.mdlx
+- name: obj\P_EX120_NPC_BLUE.mdlx
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\P_EX120_NPC_BLUE.mdlx
+- name: obj\P_EX120_NPC_GREEN.mdlx
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\P_EX120_NPC_GREEN.mdlx
+- name: obj\P_EX120_NPC_RED.mdlx
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\P_EX120_NPC_RED.mdlx
 - name: obj\P_LK100.mdlx
   method: copy
   platform: pc
