@@ -1,6 +1,6 @@
-title: AbbySora (KH2PCPATCH)
-originalAuthor: Unknown
-description: This is an automatically generated metadata for this KH2PCPATCH Modification.
+title: AbbySoraFinalMix (KH2PCPATCH)
+originalAuthor: Creepola
+description: Sora's hair is dyed exactly like Abby!
 game: kh2
 dependencies: 
 assets:
@@ -16,12 +16,6 @@ assets:
   package: kh2_fifth
   source:
   - name: obj\H_EX630.mdlx
-- name: obj\H_EX640.mdlx
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: obj\H_EX640.mdlx
 - name: obj\H_EX650.mdlx
   method: copy
   platform: pc
@@ -124,42 +118,6 @@ assets:
   package: kh2_fifth
   source:
   - name: remastered\obj\H_EX630.mdlx\-5.dds
-- name: remastered\obj\H_EX640.mdlx\-0.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\H_EX640.mdlx\-0.dds
-- name: remastered\obj\H_EX640.mdlx\-1.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\H_EX640.mdlx\-1.dds
-- name: remastered\obj\H_EX640.mdlx\-2.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\H_EX640.mdlx\-2.dds
-- name: remastered\obj\H_EX640.mdlx\-3.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\H_EX640.mdlx\-3.dds
-- name: remastered\obj\H_EX640.mdlx\-4.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\H_EX640.mdlx\-4.dds
-- name: remastered\obj\H_EX640.mdlx\-5.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\H_EX640.mdlx\-5.dds
 - name: remastered\obj\H_EX650.mdlx\-0.dds
   method: copy
   platform: pc
@@ -292,12 +250,6 @@ assets:
   package: kh2_first
   source:
   - name: obj\P_EX110.mdlx
-- name: obj\P_EX110_BTLF.mdlx
-  method: copy
-  platform: pc
-  package: kh2_first
-  source:
-  - name: obj\P_EX110_BTLF.mdlx
 - name: obj\P_EX110_NPC_PAJAMAS.mdlx
   method: copy
   platform: pc
@@ -400,42 +352,6 @@ assets:
   package: kh2_first
   source:
   - name: remastered\obj\P_EX110.mdlx\-5.dds
-- name: remastered\obj\P_EX110_BTLF.mdlx\-0.dds
-  method: copy
-  platform: pc
-  package: kh2_first
-  source:
-  - name: remastered\obj\P_EX110_BTLF.mdlx\-0.dds
-- name: remastered\obj\P_EX110_BTLF.mdlx\-1.dds
-  method: copy
-  platform: pc
-  package: kh2_first
-  source:
-  - name: remastered\obj\P_EX110_BTLF.mdlx\-1.dds
-- name: remastered\obj\P_EX110_BTLF.mdlx\-2.dds
-  method: copy
-  platform: pc
-  package: kh2_first
-  source:
-  - name: remastered\obj\P_EX110_BTLF.mdlx\-2.dds
-- name: remastered\obj\P_EX110_BTLF.mdlx\-3.dds
-  method: copy
-  platform: pc
-  package: kh2_first
-  source:
-  - name: remastered\obj\P_EX110_BTLF.mdlx\-3.dds
-- name: remastered\obj\P_EX110_BTLF.mdlx\-4.dds
-  method: copy
-  platform: pc
-  package: kh2_first
-  source:
-  - name: remastered\obj\P_EX110_BTLF.mdlx\-4.dds
-- name: remastered\obj\P_EX110_BTLF.mdlx\-5.dds
-  method: copy
-  platform: pc
-  package: kh2_first
-  source:
-  - name: remastered\obj\P_EX110_BTLF.mdlx\-5.dds
 - name: remastered\obj\P_EX110_NPC_PAJAMAS.mdlx\-0.dds
   method: copy
   platform: pc
@@ -622,12 +538,6 @@ assets:
   package: kh2_sixth
   source:
   - name: obj\P_EX120_NPC_RED.mdlx
-- name: obj\P_LK100.mdlx
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: obj\P_LK100.mdlx
 - name: obj\P_LM100.mdlx
   method: copy
   platform: pc
@@ -1636,7 +1546,7 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX120.mdlx\-6.dds
-- name: remastered\obj\P_EX120.mdlx\-0.dds
+- name: remastered\obj\P_EX120_NPC_BLUE.mdlx\-0.dds
   method: copy
   platform: pc
   package: kh2_sixth
